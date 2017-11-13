@@ -1,6 +1,6 @@
 **Vehicle Detection Project**
 
-![](giphy.gif)
+![](detect_track.gif)
 
 The goals / steps of this project are the following:
 
